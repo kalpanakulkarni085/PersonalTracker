@@ -1,0 +1,39 @@
+<h2>Expense List</h2>
+<div>
+
+  <label for="category">Category:</label>
+  <select id="category" [(ngModel)]="selectedCategory" (change)="filterExpenses()">
+    <option value="">All</option>
+    <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+  </select>
+
+  <label for="year">Select Year:</label>
+  <select id="year" name="year" [(ngModel)]="selectedYear" (change)="getExpenseReport(selectedYear)">
+    <option value="">All</option>
+    <option *ngFor="let year of years" [value]="year">{{ year }}</option>
+  </select>
+</div>
+
+
+<table *ngIf="elist ">
+  <tr>
+    <th>Category</th>
+    <th>Amount</th>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Actions</th>
+  </tr>
+  <tr *ngFor="let expense of expenses ">
+    <td>{{ expense.category }}</td>
+    <td>{{ expense.amount }}</td>
+    <td>{{ expense.expenseDate | date: 'shortDate' }}</td>
+    <td>{{ expense.description }}</td>
+    <td>
+      <button [routerLink]="'/edit/' + expense.expenseID">Edit</button>
+      <button (click)="deleteExpense(expense.expenseID)">Delete</button>
+    </td>
+  </tr>
+</table>
+
+
+<!-- <button (click)="addExpense()">Add Expense</button> -->

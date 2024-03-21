@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Expenses tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|f:\\expenses tracker\\expenses tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64A502D2-0F75-4BEF-A516-3E6E5384EAD2}|Expenses tracker\\Expenses tracker.csproj|solutionrelative:expenses tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\Startup.cs",
+              "RelativeDocumentMoniker": "Expenses tracker\\Startup.cs",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\Startup.cs",
+              "RelativeToolTip": "Expenses tracker\\Startup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:59:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Expenses tracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Expenses tracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:08:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseTrackerContext.cs",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\ExpenseTrackerContext.cs",
+              "RelativeDocumentMoniker": "Expenses tracker\\ExpenseTrackerContext.cs",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\ExpenseTrackerContext.cs",
+              "RelativeToolTip": "Expenses tracker\\ExpenseTrackerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:12:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Expenses tracker\\Models\\Expense.cs",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\Models\\Expense.cs",
+              "RelativeToolTip": "Expenses tracker\\Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:10:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expenses tracker\\Program.cs",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\Program.cs",
+              "RelativeToolTip": "Expenses tracker\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:21:58.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Expenses tracker\\Expenses tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expenses tracker\\appsettings.json",
+              "ToolTip": "F:\\Expenses tracker\\Expenses tracker\\appsettings.json",
+              "RelativeToolTip": "Expenses tracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T14:25:04.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

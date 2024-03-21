@@ -1,0 +1,19 @@
+<h2>Add Expense</h2>
+
+<form (submit)="addExpense(expenseForm.value)" style="margin-left: 20%;" #expenseForm="ngForm">
+  <label>Category:</label>
+  <input type="text" ngModel name="category" required><br>
+
+  <label>Amount:</label>
+  <input type="number" ngModel name="amount" required><br>
+
+  <label>Date:</label>
+  <input type="date" ngModel name="date" required ><br>
+
+  <label>Description:</label>
+  <input type="text" ngModel name="Description"><br>
+
+  <button type="submit" >Save</button>
+</form>
+
+<button routerLink="/">Back to Expense List</button>

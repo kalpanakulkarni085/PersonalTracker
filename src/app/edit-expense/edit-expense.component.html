@@ -1,0 +1,48 @@
+<!-- <div>
+  <h2>Update Expense</h2>
+
+  <form (submit)="updateExpense(expenseeditForm.value)" style="margin-left: 20%;" #expenseeditForm="ngForm">
+    <label>Category:</label>
+    <input type="text" [value]="expensecurrentdata?.category" name="category" required><br>
+
+    <label>Amount:</label>
+    <input type="number" [value]="expensecurrentdata?.amount" name="amount" required><br>
+
+    <label>Date:</label>
+    <input type="date" [value]="expensecurrentdata?.expenseDate" name="date" required><br>
+
+    <label>Description:</label>
+    <input type="text" [value]="expensecurrentdata?.description" name="Description"><br>
+
+    <button type="submit">Update</button>
+  </form>
+
+  <button routerLink="/">Back to Expense List</button>
+</div> -->
+
+
+<div>
+  <h2>Update Expense</h2>
+
+  <form (submit)="updateExpense(expenseeditForm.value)" style="margin-left: 20%;" #expenseeditForm="ngForm">
+
+    <input type="hidden" name="id" [ngModel]="expensecurrentdata?.expenseID" required>
+
+    <label>Category:</label>
+    <input type="text" [ngModel]="expensecurrentdata?.category" (ngModelChange)="expensecurrentdata.category = $event" name="category" required><br>
+
+    <label>Amount:</label>
+    <input type="number" [ngModel]="expensecurrentdata?.amount" (ngModelChange)="expensecurrentdata.amount = $event" name="amount" required><br>
+
+    <label>Date:</label>
+    <input type="date" [ngModel]="expensecurrentdata?.expenseDate" (ngModelChange)="expensecurrentdata.expenseDate = $event" name="date" required><br>
+
+    <label>Description:</label>
+    <input type="text" [ngModel]="expensecurrentdata?.description" (ngModelChange)="expensecurrentdata.description = $event" name="Description"><br>
+
+    <button type="submit">Update</button>
+  </form>
+
+  <button routerLink="/">Back to Expense List</button>
+</div>
+

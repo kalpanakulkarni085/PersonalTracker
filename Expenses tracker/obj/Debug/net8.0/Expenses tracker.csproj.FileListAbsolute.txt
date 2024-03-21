@@ -1,0 +1,85 @@
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\appsettings.Development.json
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\appsettings.json
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.staticwebassets.runtime.json
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.exe
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.deps.json
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.runtimeconfig.json
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Expenses tracker.pdb
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Azure.Core.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Azure.Identity.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expenses tracker\Expenses tracker\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.csproj.AssemblyReference.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.AssemblyInfoInputs.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.AssemblyInfo.cs
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.csproj.CoreCompileInputs.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.MvcApplicationPartsAssemblyInfo.cs
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.MvcApplicationPartsAssemblyInfo.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.RazorAssemblyInfo.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.RazorAssemblyInfo.cs
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets.build.json
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets.development.json
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expenses tracker.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.Expenses tracker.props
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expenses tracker.props
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expenses tracker.props
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\scopedcss\bundle\Expenses tracker.styles.css
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\scopedcss\projectbundle\Expenses tracker.bundle.scp.css
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses.71B7386F.Up2Date
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.dll
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\refint\Expenses tracker.dll
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.pdb
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\Expenses tracker.genruntimeconfig.cache
+F:\Expenses tracker\Expenses tracker\obj\Debug\net8.0\ref\Expenses tracker.dll
